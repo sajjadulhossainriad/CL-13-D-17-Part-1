@@ -1,0 +1,25 @@
+h1{
+    background-color: green;
+    color: white;
+    display: inline-block;
+}
+h2{
+    color: red;
+    background-color: green;
+    display: inline-block;
+}
+h3{
+    color: blue;
+    background-color: yellow;
+    display: inline-block;
+}
+.hudai{
+    background-color: green;
+    height: 300px;
+    width: 300px;
+}
+.another{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
